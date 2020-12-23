@@ -1,0 +1,13 @@
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.exe
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.deps.json
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.runtimeconfig.json
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.runtimeconfig.dev.json
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.dll
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\bin\Debug\netcoreapp3.1\exercici3.pdb
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.csprojAssemblyReference.cache
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.AssemblyInfoInputs.cache
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.AssemblyInfo.cs
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.csproj.CoreCompileInputs.cache
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.dll
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.pdb
+C:\Users\gam_l\Desktop\Git\udo3\exercici3\exercici3\obj\Debug\netcoreapp3.1\exercici3.genruntimeconfig.cache
