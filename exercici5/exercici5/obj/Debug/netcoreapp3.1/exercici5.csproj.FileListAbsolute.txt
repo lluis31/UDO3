@@ -1,0 +1,4 @@
+C:\Users\gam_l\Desktop\Git\udo3\exercici5\exercici5\obj\Debug\netcoreapp3.1\exercici5.csprojAssemblyReference.cache
+C:\Users\gam_l\Desktop\Git\udo3\exercici5\exercici5\obj\Debug\netcoreapp3.1\exercici5.AssemblyInfoInputs.cache
+C:\Users\gam_l\Desktop\Git\udo3\exercici5\exercici5\obj\Debug\netcoreapp3.1\exercici5.AssemblyInfo.cs
+C:\Users\gam_l\Desktop\Git\udo3\exercici5\exercici5\obj\Debug\netcoreapp3.1\exercici5.csproj.CoreCompileInputs.cache
