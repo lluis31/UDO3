@@ -11,7 +11,8 @@ namespace exercici5
             int C = 8;
             int D = 19;
         
-            (B, D) => B == D);
+            B=(int)D;
+
         }
     }
 }
